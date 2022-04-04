@@ -1,6 +1,1 @@
-# this is a comment
-#keep *
-drop *
-keep Muon*
-keep Electron*
-keep Jet*
+keep *
